@@ -1,0 +1,2 @@
+# Short-Time-Fourier-Transform-STFT-Synchrosqueezing-SST-
+This Julia implementation computes a **Short-Time Fourier Transform ** and its **synchrosqueezed** variant (SST), returning both the spectrogram and its reassigned, sharpened time–frequency representation. It is adapted from Hau-tieng Wu’s synchrosqueezing routine (originally in MATLAB) and translated/extended in Julia by Naoki Saito, Haotian Bao.
